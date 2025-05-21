@@ -6,7 +6,7 @@ int main() {
 
     for (i = 1; i <= 10; i++) {
 
-        printf("Infomre um número\n");
+        printf("Informe um número\n");
         scanf("%d", &n);
 
         temp = n;
